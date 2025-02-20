@@ -14,4 +14,5 @@ One of the most exciting aspects of the application is its ability to create bot
 
 For users who prefer not to register, we also offer the option to explore the movie collection through a Guest Mode.
 
-We thoroughly enjoyed working on this project, and we are especially proud of the app's design. We look forward to creating more fun and engaging projects in the future. 🧿
+I thoroughly enjoyed working on this project, and I am especially proud of the APP's design. 
+I look forward to creating more fun and engaging projects in the future. 
